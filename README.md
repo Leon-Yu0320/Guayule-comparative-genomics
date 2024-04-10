@@ -18,7 +18,7 @@ While a draft genome assembly is available for W6-429/CAL-3 1, most breeding eff
 
 - [**Guayule genome project**](#guayule-genome-project)
   - [Genomic analysis of the genome synteny](#genomic-analysis-of-the-genome-synteny)
-    - [Conduct the synteny analyiss by nucmer using genomic sequences](#conduct-the-synteny-analyiss-by-nucmer-using-genomic-sequences)
+    - [Conduct the synteny analyiss by nucmer using genomic sequences](#conduct-the-synteny-analysis-by-nucmer-using-genomic-sequences)
     - [Using nucmer and mummer for plotting](#using-nucmer-and-mummer-for-plotting)
   - [Test the mapping depth of resequencing data derived from 10 groups of crosses (Diploid \* Tetraploid)](#test-the-mapping-depth-of-resequencing-data-derived-from-10-groups-of-crosses-diploid--tetraploid)
     - [Trim reads](#trim-reads)
