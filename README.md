@@ -12,7 +12,8 @@ Here we performed the comparative genomics analysis of two genomes of guayule,  
 
 While a draft genome assembly is available for W6-429/CAL-3 1, most breeding efforts have been placed in the agronomically important accessions AZ-2 and AZ-6. AZ-2 has been the focus of most functional genomics as it is transformable, whereas AZ-6 contains significantly more rubber at harvest than AZ-2. In addition to producing more rubber, AZ-6 is also morphologically distinct from AZ-2, in that it is a smaller, more compact plant at maturity, allowing for denser planting and possibly more cold tolerance
 
-<img width="369" alt="Screenshot 2024-04-10 at 3 47 13 PM" src="https://github.com/Leon-Yu0320/Guayule-comparative-genomics/assets/69836931/da737278-c281-467a-be3f-ece6f74a576e">
+<img width="369" alt="Screenshot 2024-04-10 at 3 47 13 PM" src="https://github.com/Leon-Yu0320/Guayule-comparative-genomics/assets/69836931/da737278-c281-467a-be3f-ece6f74a576e"><img width="297" alt="Screenshot 2024-04-10 at 3 54 02 PM" src="https://github.com/Leon-Yu0320/Guayule-comparative-genomics/assets/69836931/ee9c1cbd-06bc-4aa4-a97c-84a2113f2c86">
+
 
 
 - [**Guayule genome project**](#guayule-genome-project)
