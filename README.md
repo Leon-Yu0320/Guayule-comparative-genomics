@@ -1,12 +1,19 @@
 # **Guayule genome project**
-<img width="369" alt="Screenshot 2024-04-10 at 3 47 13 PM" src="https://github.com/Leon-Yu0320/Guayule-comparative-genomics/assets/69836931/01756e7a-ffaa-4716-95b6-66a3884fe4df">
-
-<img width="1011" alt="Screenshot 2024-04-10 at 3 48 22 PM" src="https://github.com/Leon-Yu0320/Guayule-comparative-genomics/assets/69836931/36e7a99d-27dc-4799-852d-38e1316023ef">
-
 
 
 **Author: Li'ang Yu, Andrew Nelson** \
 **Date: Oct 31st, 2023**
+
+<img width="1011" alt="Screenshot 2024-04-10 at 3 48 22 PM" src="https://github.com/Leon-Yu0320/Guayule-comparative-genomics/assets/69836931/36e7a99d-27dc-4799-852d-38e1316023ef">
+
+Guayule (Parthenium argentatum), a woody desert shrub indigenous to the Chihuahuan desert of North America, is under development in the semi-arid southwestern U.S., driven by a need for high quality natural rubber, resin, and bioenergy feedstock produced by the plant. 
+
+Here we performed the comparative genomics analysis of two genomes of guayule,  a diploid guayule **(2X)**, CAL-3, which is a disease-resistant selection from W6-429 9, as well as AZ-2, a allo-tetraploid guayule hybrid **(4X)**, and AZ-6, a pure guayule tetraploid **(2X)**. Both AZ-2 and AZ-6 reproduce apomictically. 
+
+While a draft genome assembly is available for W6-429/CAL-3 1, most breeding efforts have been placed in the agronomically important accessions AZ-2 and AZ-6. AZ-2 has been the focus of most functional genomics as it is transformable, whereas AZ-6 contains significantly more rubber at harvest than AZ-2. In addition to producing more rubber, AZ-6 is also morphologically distinct from AZ-2, in that it is a smaller, more compact plant at maturity, allowing for denser planting and possibly more cold tolerance
+
+<img width="369" alt="Screenshot 2024-04-10 at 3 47 13 PM" src="https://github.com/Leon-Yu0320/Guayule-comparative-genomics/assets/69836931/da737278-c281-467a-be3f-ece6f74a576e">
+
 
 - [**Guayule genome project**](#guayule-genome-project)
   - [Genomic analysis of the genome synteny](#genomic-analysis-of-the-genome-synteny)
