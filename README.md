@@ -6,7 +6,7 @@
 
 <img width="1011" alt="Screenshot 2024-04-10 at 3 48 22 PM" src="https://github.com/Leon-Yu0320/Guayule-comparative-genomics/assets/69836931/36e7a99d-27dc-4799-852d-38e1316023ef">
 
-Guayule (Parthenium argentatum), a woody desert shrub indigenous to the Chihuahuan desert of North America, is under development in the semi-arid southwestern U.S., driven by a need for high quality natural rubber, resin, and bioenergy feedstock produced by the plant. 
+Guayule ***(Parthenium argentatum)***, a woody desert shrub indigenous to the Chihuahuan desert of North America, is under development in the semi-arid southwestern U.S., driven by a need for high quality natural rubber, resin, and bioenergy feedstock produced by the plant. 
 
 Here we performed the comparative genomics analysis of two genomes of guayule,  a diploid guayule **(2X)**, CAL-3, which is a disease-resistant selection from W6-429 9, as well as AZ-2, a allo-tetraploid guayule hybrid **(4X)**, and AZ-6, a pure guayule tetraploid **(2X)**. Both AZ-2 and AZ-6 reproduce apomictically. 
 
