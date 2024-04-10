@@ -1,4 +1,9 @@
 # **Guayule genome project**
+<img width="369" alt="Screenshot 2024-04-10 at 3 47 13 PM" src="https://github.com/Leon-Yu0320/Guayule-comparative-genomics/assets/69836931/01756e7a-ffaa-4716-95b6-66a3884fe4df">
+
+<img width="1011" alt="Screenshot 2024-04-10 at 3 48 22 PM" src="https://github.com/Leon-Yu0320/Guayule-comparative-genomics/assets/69836931/36e7a99d-27dc-4799-852d-38e1316023ef">
+
+
 
 **Author: Li'ang Yu, Andrew Nelson** \
 **Date: Oct 31st, 2023**
